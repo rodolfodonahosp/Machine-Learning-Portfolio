@@ -1,6 +1,6 @@
 # Machine-Learning-Portfolio
 
-Repository cointaining some of my Machine Learning projects for self learning, hobby and showcasing purposes. All the projects are presented using Jupyter Notebook and written in Python.
+Repository containing some of my Machine Learning projects for self learning, hobby and showcasing purposes. All the projects are presented using Jupyter Notebook and written in Python.
 
 ## Contents
   - [German Traffic Signs Classification using CNN's](https://github.com/rodolfodonahosp/Machine-Learning-Portfolio/blob/master/Traffic_Signs.ipynb): Used a standard CNN to classificate german traffic signs. Also used proprocessing techniques, data visualization tools and image generator for a better accuracy
